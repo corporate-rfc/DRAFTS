@@ -25,4 +25,4 @@ For example: `draft-tslominski-system-to-human-communication-00`.
 
 ## Publication Process
 
-CRFCs are currently experimental. The publication process is currently not well defined. The intent is to have some sort of discussion and rough consensus on a draft within the [DRAFTS repository](https://github.com/corporate-rfc/DRAFTS) using the pull request system. Once rough consensus is reached, draft would be published in a separate https://github.com/corporate-rfc repository and assigned a number.
+CRFCs are currently experimental. The publication process is currently not well defined. The intent is to have some sort of discussion and [rough consensus](https://tools.ietf.org/html/rfc7282) on a draft within the [DRAFTS repository](https://github.com/corporate-rfc/DRAFTS) using the pull request system. Once rough consensus is reached, draft would be published in a separate https://github.com/corporate-rfc repository and assigned a number.
